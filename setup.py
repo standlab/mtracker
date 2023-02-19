@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-   name='mtraker',
+   name='mtracker',
    version='1.0',
    description='Provides a decorator for memory usage tracking. The part of FOSS course.',
    license='MIT',

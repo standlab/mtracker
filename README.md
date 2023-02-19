@@ -33,11 +33,15 @@ Make sure [git](https://git-scm.com/) is installed on your system. In bash-shell
 
     git clone git@github.com:standlab/mtracker.git
     cd mtracker
-    python setup.py
+    pip install .
 
 Or simply:
 
     pip install git+https://github.com/standlab/mtracker.git#egg=mtracker
+    
+Remove the matracker:
+
+    pip uninstall mtracker
 
 # Contribute
 
