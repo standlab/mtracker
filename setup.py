@@ -4,6 +4,7 @@ setup(
    name='mtracker',
    version='1.0',
    description='Provides a decorator for memory usage tracking. The part of FOSS course.',
+   long_description_content_type='text/markdown',
    license='MIT',
    author='Artem Vesnin',
    author_email='artemvesnin@gmail.com',
